@@ -1,2 +1,2 @@
 #  nuclear decay
- mapa iterativo para modelar decaimento nuclear
+Leia o arquivo de pdf para mais informações
